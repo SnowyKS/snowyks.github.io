@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+
+Sitemap: https://snowyks.github.io/sitemap.xml
+Sitemap: https://snowyks.github.io/les-pil/sitemap.xml
